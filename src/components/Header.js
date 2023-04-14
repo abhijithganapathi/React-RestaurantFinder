@@ -7,7 +7,7 @@ function Header() {
     <div>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand href="/">
             <img
               alt=""
               src="https://icon-library.com/images/restaurant-icon-png/restaurant-icon-png-8.jpg"
